@@ -27,10 +27,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to your forked repository: `git push origin feature-name`.
 5. Create a pull request on the original repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Usage
 
 1. **Numeric Buttons:** Click on numeric buttons (0-9) to enter numbers into the expression.
