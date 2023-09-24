@@ -29,3 +29,18 @@ The Calculator App is a simple and versatile calculator for performing basic ari
 3. **Special Functions:** Parentheses `(` and `)` can be used for grouping operations.
 4. **Clear and Delete:** Click "AC" to clear the display. Click "DEL" to delete the last character.
 5. **Calculate:** Click "=" to evaluate the expression.
+6. ## Features
+
+- Basic arithmetic operations: Addition, subtraction, multiplication, division.
+- Trigonometric functions: Sine (sin), Cosine (cos), Tangent (tan).
+- Logarithmic function: Natural logarithm (ln).
+- Exponential function: Exponentiation (exp).
+- User-friendly design for efficient calculation.
+
+Make your math tasks a breeze with the Calculator App.
+
+## Author
+
+- **Author:** Vratesh Bhardwaj
+- **GitHub:** [CosmicWarriorCW](https://github.com/CosmicWarriorCW)
+- **Email:** vrateshbhardwaj@gmail.com
