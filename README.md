@@ -54,6 +54,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Make your math tasks a breeze with the Calculator App.
 
+## Download
+[here](https://github.com/CosmicWarriorCW/Calculator/releases)
+
 ## Author
 
 - **Author:** Vratesh Bhardwaj
